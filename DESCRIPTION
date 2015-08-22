@@ -1,0 +1,11 @@
+Package: nodebbAPI
+Type: Package
+Title: Interface for NodeBB API
+Version: 0.1
+Date: 2015-08-21
+Author: Jason A. French
+Maintainer: Jason A. French <frenchja@gmail.com>
+Description: Exposes endpoints for NodeBB Write API plugin.
+License: GPLv3
+Depends: httr
+LazyData: TRUE
